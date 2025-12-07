@@ -3,3 +3,4 @@
 	- stun/turn servers
 	- ICE candidates
 	- SDP (session description protocol)
+	- Signaling server (not as such part of webtrc, has to be implemented by the developer)
